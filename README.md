@@ -12,7 +12,7 @@ Container を利用している template を選択する必要がある(たぶ�
 terminal と Files ペインで同期が取れていないなど)
 
 よって、目的とするプロジェクトに入れ替えしやすいように、極力何もしない
-tempalate を作成した.
+template を作成した.
 
 ## 利用方法
 
@@ -27,4 +27,4 @@ tempalate を作成した.
 
 ## ライセンス
 
-CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+[CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
